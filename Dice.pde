@@ -32,7 +32,7 @@ void draw()
   
   fill(0);
   textSize(30);
-  text("The sum is " + sum, 270, 45);
+  text("The sum is " + sum, 280, 45);
   
 }
 void mousePressed()
